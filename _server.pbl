@@ -1,0 +1,24 @@
+author="josteph"
+description="Can you beat SP campaigns on Nightmare without even trying hard? Think the AI is so predictable you could defeat it with your eyes closed? Now’s your chance!
+
+This mod makes all AI units invisible — like Elvish Rangers in forest and Nightgaunts at nighttime, but now it’s all units, all the time.  Your allies and your own units receive no such boon.  Will you prevail against the unseen danger?
+
+Wesnoth 1.14 required, 1.14.5+ recommended.
+
+GitHub: https://github.com/jostephd/wesnoth-invisible-enemies/
+
+*This is the first version. Feedback is welcome on the forums thread!*"
+email="josteph@fastmail.com"
+# Icon:
+#  - 0.6 is hardcoded in unit_drawer::redraw_unit() as the alpha of a friendly active "hides" ability
+#  - red is the default moved_orb_color from game_config.cfg
+#  - black is the default enemy_orb_color from game_config.cfg
+# TODO: add health/XP bars
+icon="terrain/mountains/basic-tile.png~BLIT(units/elves-wood/ranger.png~RC(magenta>red)~O(0.6))~BLIT(misc/orb.png~RC(magenta>black))"
+tags="jostephd,hidden,hides,ambush,nightstalk,blind,single player"
+title="Invisible Enemies"
+type="mod_mp"
+version="0.0.1"
+#[feedback]
+#        topic_id=
+#[/feedback]
