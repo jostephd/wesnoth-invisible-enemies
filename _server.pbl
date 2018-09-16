@@ -18,7 +18,7 @@ icon="terrain/mountains/basic-tile.png~BLIT(units/elves-wood/ranger.png~RC(magen
 tags="jostephd,hidden,hides,ambush,nightstalk,blind,single player"
 title="Invisible Enemies"
 type="mod_mp"
-version="0.0.1"
-#[feedback]
-#        topic_id=
-#[/feedback]
+version="0.0.2"
+[feedback]
+        topic_id=48814
+[/feedback]
