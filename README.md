@@ -7,6 +7,6 @@
 > 
 > Wesnoth 1.14 required, 1.14.5+ recommended.
 > 
-> *This is the first version. Feedback is welcome on the forums thread!*"
+> *This is the first version. Feedback is welcome on the forums thread!*
 
 This is a simple modification for [The Battle for Wesnoth](https://www.wesnoth.org/) for single-player (SP) campaigns. When this modification is enabled, all AI units will be invisible (like an always-on, universal version of the "ambush" and "nightstalk" abilities).
