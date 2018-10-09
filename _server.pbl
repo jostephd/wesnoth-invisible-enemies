@@ -9,12 +9,7 @@ GitHub: https://github.com/jostephd/wesnoth-invisible-enemies/
 
 *This is the first version. Feedback is welcome on the forums thread!*"
 email="josteph@fastmail.com"
-# Icon:
-#  - 0.6 is hardcoded in unit_drawer::redraw_unit() as the alpha of a friendly active "hides" ability
-#  - red is the default moved_orb_color from game_config.cfg
-#  - black is the default enemy_orb_color from game_config.cfg
-# TODO: add health/XP bars
-icon="terrain/mountains/basic-tile.png~BLIT(units/elves-wood/ranger.png~RC(magenta>red)~O(0.6))~BLIT(misc/orb.png~RC(magenta>black))"
+icon="terrain/hills/regular.png~BLIT(misc/hidden.png)~BLIT(misc/zoc.png)"
 tags="jostephd,hidden,hides,ambush,nightstalk,blind,single player"
 title="Invisible Enemies"
 type="mod_mp"
