@@ -13,7 +13,7 @@ icon="terrain/hills/regular.png~BLIT(misc/hidden.png)~BLIT(misc/zoc.png)"
 tags="jostephd,hidden,hides,ambush,nightstalk,blind,single player"
 title="Invisible Enemies"
 type="mod_mp"
-version="0.0.2"
+version="0.0.3"
 [feedback]
         topic_id=48814
 [/feedback]
